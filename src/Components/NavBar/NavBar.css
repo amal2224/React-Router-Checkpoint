@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Dosis:300,400);
+
+.logoApp {
+    width: 300px;
+    color: white;
+    font-size: 45px;
+    font-family: 'Ma Shan Zheng', cursive;
+    margin-left: 100px;
+    margin-left: -100px;
+}
+
+#nav-bar {
+    margin: -5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border:solid;
+    background-color: #000000;
+    height: 70px;
+}
+
+.navv{
+    text-decoration: none;
+    color:#B3E0EE;
+}
+
+.navv:hover{
+    color:#408FEB;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 10px;
+}

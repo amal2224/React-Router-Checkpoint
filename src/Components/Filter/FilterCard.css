@@ -1,13 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
-
-.logoApp{
-    width:300px;
-    color:white;
-    font-size: 45px;
-    font-family: 'Ma Shan Zheng',cursive;
-    margin-left: 100px
-}
-
 .headerM {
     background-color:#0096c7;
     height:75px;
@@ -16,7 +6,6 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    position: absolute;
     top: 0;
     overflow: hidden;
 
@@ -26,8 +15,6 @@
     display:flex;
     flex-direction: row;
     align-items: center;
-    margin-left: 600px;
-    margin-right: 70px;
 }
 .rating{
     width:170px;
@@ -40,7 +27,7 @@
     border: none;
     border-radius: 100px;
     outline: none;
-    background-color: #4ea8de;
+    background-color: #1F1B24;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     color: white;
 

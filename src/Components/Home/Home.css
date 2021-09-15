@@ -1,0 +1,20 @@
+#welcome {
+    font-family: 'Dancing Script', cursive;
+    color: #0096c7;
+    font-size: 50px;
+    width:750px;
+    text-align: center;
+    margin-top: 300px;
+}
+.caroHome {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:10px 20px 10px 75px;
+    border: 1px solid #000000;
+}
+.disney{
+        border-radius: 400px;
+        width:250px;
+        height:200px;
+}
